@@ -1,2 +1,6 @@
 newfile 1st
 newfile 2st
+
+
+changes
+Open the repository on GitHub and make changes to newfile.txt
